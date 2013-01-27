@@ -1,0 +1,6 @@
+Sex, 2012-11-23 21:21:46.352592
+adicionado botao execucomandos ja podem ser executados
+Sex, 2012-11-23 21:22:07.719828
+alteradas funções de move para persons
+S�b, 2012-12-01 15:57:55.522000
+nada
