@@ -10,5 +10,6 @@ Have Python and PyGame module
 
 Running:
 
-<pre>python jogin.py</pre> to run the game
+<pre>python jogin.py</pre> 
+to run the game
 
