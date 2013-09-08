@@ -1,4 +1,4 @@
-Learning programming game
+Learning table game
 ============
 
 
